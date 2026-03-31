@@ -32,6 +32,6 @@
 
 ## 使用方式
 
-1. 確認 `一般旅館_all.xlsx` 和 `觀光旅館_all.xlsx` 以下載至專案資料夾（原始資料可從[觀光署行政資訊網](https://admin.taiwan.net.tw)下載）
+1. 確認 `一般旅館_all.xlsx` 和 `觀光旅館_all.xlsx` 已下載至專案資料夾（原始資料可從[觀光署行政資訊網](https://admin.taiwan.net.tw)下載）
 2. 執行 `2_load_to_db.ipynb`，依提示輸入 MySQL 帳密，自動完成資料匯入與 View 建立
 3. 開啟 `旅館.pbix` 連接資料庫即可使用 Dashboard
