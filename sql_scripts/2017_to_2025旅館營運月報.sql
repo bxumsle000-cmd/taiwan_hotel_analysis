@@ -10,7 +10,7 @@ SELECT
     gh.總營業收入,
     '一般旅館' as 旅館類別
 FROM tourism_db.general_hotel AS gh
-UNION
+UNION ALL
 SELECT
     ah.地區,
     ah.年月,
